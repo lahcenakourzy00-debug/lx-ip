@@ -1,0 +1,8 @@
+{
+  "name": "LX IPTV",
+  "description": "Premium IPTV service with secure payment and multi-device support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
